@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "https://upbeat-bell-f58be2.netlify.com/"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Sean Mahoney"
 pygmentsstyle: 'monokai'
 
 # Theme settings
@@ -8,9 +8,9 @@ theme: novela
 paginate: 6
 social:
   twitter: "#"
-  github: "#"
-  instagram: "#"
-  linkedin: "#"
+  github: "https://github.com/seantmahoney92"
+  instagram: "https://instagram.com/techno.sheen"
+  linkedin: "https://linkedin.com/in/seanmahoney92"
   dribbble: "#"
   youtube: "#"
 taxonomies:
